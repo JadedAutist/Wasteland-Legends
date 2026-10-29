@@ -2,6 +2,8 @@
 
 **Beta 0.9.0** for Apocalypter (BepInEx 5)
 
+**Download:** [Nexus Mods](https://www.nexusmods.com/apocalypter/mods/96) · [GitHub releases](https://github.com/JadedAutist/Wasteland-Legends/releases) · or in-game with Apocasetter (F6, then Mods)
+
 Some Scrapyard raiders grow into named **legends**. A legend has a home camp and its own strengths and weak spots, and the wasteland talks about what it does. It also remembers you. Kill one and you get its bounty, a trophy weapon and the stash at its camp. It may still come back, scarred and angrier.
 
 ## What happens in your game
